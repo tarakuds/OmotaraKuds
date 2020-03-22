@@ -1,0 +1,2 @@
+# OmotaraKuds
+first git practice
