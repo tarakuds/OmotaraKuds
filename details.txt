@@ -1,4 +1,5 @@
 Full Name: Omotara Kudehinbu
+Email: taradebby@gmail.com
 Username: Omotara Kuds
 Tracks: Front End and Back End
 Courses: HTML, CSS, JAVAScript, PHP, NodeJS, Python and UI/UX
